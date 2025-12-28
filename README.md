@@ -96,5 +96,3 @@ By analyzing this data, businesses can make informed decisions to **increase rev
 <img width="1802" height="677" alt="image" src="https://github.com/user-attachments/assets/b4b6e513-c690-4027-ae5b-973fbad8bf62" />
 
 ---
-
-**If you found this project helpful, don’t forget to star this repository!**
